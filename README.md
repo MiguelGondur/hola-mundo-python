@@ -1,6 +1,6 @@
 # coding=utf-8
 
-print ('Hola negros')
+print ('Hola chicos')
 print()
 print('ya se \'programar\' en python')
 print(3.141592)
